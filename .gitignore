@@ -1,5 +1,4 @@
 .nfs*
-
 # compilation and distribution
 __pycache__
 _ext
@@ -11,6 +10,9 @@ _ext
 build/
 dist/
 wheels/
+
+# images
+**/notebooks/images
 
 # pytorch/python/numpy formats
 *.pth
