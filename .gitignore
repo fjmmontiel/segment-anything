@@ -13,7 +13,8 @@ wheels/
 
 # images
 **/notebooks/images
-
+**/test*
+test*
 # pytorch/python/numpy formats
 *.pth
 *.pkl
